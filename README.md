@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mahmoudelwekel@ymail.com**
 
-- 📄 Know about my experiences by downloading [ffff] (my resume)
+- 📄 Know about my experiences by downloading [ffff] (https://www.mediafire.com/file/s91iirji52gvltd/Mahmoud_Nasr_Elwekel.pdf/file)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
