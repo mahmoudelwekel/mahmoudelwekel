@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mahmoudelwekel@ymail.com**
 
-- 📄 Know about my experiences by downloading [ffff] (https://www.mediafire.com/file/s91iirji52gvltd/Mahmoud_Nasr_Elwekel.pdf/file)
+- 📄 Know about my experiences by downloading [My Resume](https://www.mediafire.com/file/s91iirji52gvltd/Mahmoud_Nasr_Elwekel.pdf/file)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,6 +28,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudelwekel&show_icons=true&locale=en&layout=compact" alt="mahmoudelwekel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudelwekel&show_icons=true&locale=en" alt="mahmoudelwekel" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudelwekel&" alt="mahmoudelwekel" /></p>
