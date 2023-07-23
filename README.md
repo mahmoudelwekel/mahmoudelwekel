@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/7odaelwekel" target="blank"><img src="https://img.shields.io/twitter/follow/7odaelwekel?logo=twitter&style=for-the-badge" alt="7odaelwekel" /></a> </p>
 
-- 🔭 I’m currently working on [Deer Wallet](https://deer.somee.com/)
+- 🔭 I’m currently working on [Ghzzal](https://Ghzzal.com/)
 
 - 🌱 I’m currently learning **Angular**
 
